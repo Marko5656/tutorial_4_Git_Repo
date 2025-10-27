@@ -6,7 +6,7 @@ Steps Followed
 Installed Git and created a GitHub account.
 Initialized a local repository using git init.
 Created and switched to a new branch.
-Added a sample file (print_name.py) that prints my first and last name.
+Added a sample text file that prints my first and last name.
 Committed the changes with a message.
 Pushed the branch to GitHub.
 Created a Pull Request and had it reviewed and merged.
